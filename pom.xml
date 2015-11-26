@@ -1214,7 +1214,7 @@
 
         <!-- Misc -->
         <carbon.p2.plugin.version>1.5.3</carbon.p2.plugin.version>
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <junit.version>4.12</junit.version>
         <cxf.bundle.version>2.7.16</cxf.bundle.version>
         <!--<slf4j.orbit.version>1.5.10.wso2v1</slf4j.orbit.version>-->
@@ -1254,7 +1254,7 @@
         <orbit.version.json>2.0.0.wso2v1</orbit.version.json>
 
         <!-- Javax-->
-        <javax.servelet.version>3.1.0</javax.servelet.version>
+        <javax.servelet.version>3.0.1</javax.servelet.version>
 
         <lucene.orbit.version>5.2.1.wso2v1</lucene.orbit.version>
         <lucene.imp.pkg.version>[5.2.1, 5.3.0)</lucene.imp.pkg.version>
